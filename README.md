@@ -3,6 +3,7 @@ Created a NASA Mission Control website with Oak, Deno, TypeScript, and Vanilla J
 
 # Running the Program
 Ensure you have Deno installed: https://deno.land/
+
 In the terminal, run: 
 ```
 deno run -A Drakefile.ts start
